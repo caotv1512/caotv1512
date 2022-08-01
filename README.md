@@ -1,6 +1,6 @@
 <!-- CaoTV -->
 <a href="#" target="_blank">
-  <img src="svg/CaoTV.svg" width="1200" alt="ChuNguyenChuong-official" />
+  <img src="svg/CaoTV.svg" width="1200" alt="TranVanCao-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
