@@ -57,10 +57,10 @@
   <a href="https://www.facebook.com/hoangnamcao1512/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="CaoTV-youtube" />
   </a>
-  <a href="https://www.facebook.com/hoangnamcao1512/" target="blank">
+  <a href="https://www.linkedin.com/hoangnamcao1512/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="CaoTV-linkedin" />
   </a>
-  <a href="https://www.facebook.com/hoangnamcao1512/" target="blank">
+  <a href="https://www.instagram.com/hoangnamcao1512/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="CaoTV-instagram" />
   </a>
   <a href="mailto:caomanhct@gmail.com" target="top">
